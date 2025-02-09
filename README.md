@@ -16,7 +16,7 @@ This repository contains the necessary libraries and Arduino code for the **Mois
 ```
 MoistureMonitor_Libraries_Arduino/
 │── 📁 libraries/       # Required Arduino libraries
-│── 📁 arduino_code/    # Moisture sensor Arduino sketches
+│── Soil_sensor_final_code.ino  # Moisture sensor Arduino sketches
 │── README.md          # Documentation
 ```
 
